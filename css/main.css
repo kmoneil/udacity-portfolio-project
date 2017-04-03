@@ -1,0 +1,115 @@
+body {
+	font-family: "Roboto", sans-serif;
+	margin-top: 30px;
+}
+
+
+/*
+	Header elements
+*/
+.title-header {
+	font-size: 3.5rem;
+}
+
+
+.subtitle-header {
+	font-size: 1.25rem;
+}
+
+
+/*
+	Footer elements
+*/
+footer {
+	padding: 50px 0;
+}
+
+
+/*
+	Primary website colors
+*/
+.color-primary-blue {
+	color: #02b3e4;
+}
+
+
+.color-primary-light-gray {
+	color: #7d97ad;
+}
+
+
+.color-primary-dark-gray {
+	color: #2d3c49;
+}
+
+
+/*
+	Text helpers
+*/
+.text-thin {
+	font-weight: 100;
+}
+
+
+.text-light {
+	font-weight: 300;
+}
+
+
+.text-bold {
+	font-weight: 400;
+}
+
+
+.text-bolder {
+	font-weight: 700;
+}
+
+
+.letter-spacing-sm {
+	letter-spacing: 1.5px;
+}
+
+
+.letter-spacing-md {
+	letter-spacing: 2.5px;
+}
+
+
+/*
+	Hero image slider
+*/
+#imageSlider {
+	margin: 10px 0; 
+}
+
+
+/*
+	Sections
+*/
+.section-title {
+	font-size: 2.25rem;
+	margin: 15px 0;
+}
+
+
+/*
+	Articles
+*/
+.article-title {
+	margin-top: 10px;
+}
+
+
+.article-link {
+	text-decoration: none;
+	font-size: 1.25rem;
+}
+
+
+/*
+	Misc
+*/
+.big-top-border {
+	border-top: 5px solid;
+}
